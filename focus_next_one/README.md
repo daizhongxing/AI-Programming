@@ -162,8 +162,8 @@ focus_next_one/
 如果您有任何问题或建议，欢迎通过以下方式联系：
 
 - 📧 邮箱：[710600858@qq.com](mailto:710600858@qq.com)
-- 🐛 Issues：[GitHub Issues](https://github.com/daizhongxing/AI-Programming/focus_next_one/issues)
-- 💬 讨论：[GitHub Discussions](https://github.com/daizhongxing/AI-Programming/focus_next_one/discussions)
+- 🐛 Issues：[GitHub Issues](https://github.com/daizhongxing/AI-Programming/issues)
+- 💬 讨论：[GitHub Discussions](https://github.com/daizhongxing/AI-Programming/discussions)
 
 ---
 
